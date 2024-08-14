@@ -1,0 +1,12 @@
+path: /Users/sammy/Desktop/專題 Bloody-help/bloody/python/datasets/20240108 # 檔案路徑
+# path: /Users/sammy/Desktop/專題 Bloody-help/bloody/python/datasets/number/20240202 # 檔案路徑
+train: "train/images"
+val: "valid/images"
+# train: /Users/sammy/Desktop/專題 Bloody-help/bloody/python/datasets/train/images
+# val: /Users/sammy/Desktop/專題 Bloody-help/bloody/python/datasets/valid/images
+
+#class names
+names:
+  0: "DIA"
+  1: "PLUSE"
+  2: "SYS"
